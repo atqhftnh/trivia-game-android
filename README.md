@@ -48,7 +48,7 @@ If you would like to run the app:
 
 1. Create your own Firebase project at [https://console.firebase.google.com](https://console.firebase.google.com)
 2. Replace the `google-services.json` file with your own from Firebase.
-3. If the project uses a third-party API (e.g., trivia questions), generate your own API key and replace it in the code.
+3. If the project uses a third-party API (e.g., trivia questions), generate your own API key and replace it in the code (`google-services.json`) file.
 4. NEVER commit sensitive keys or credentials to public repositories.
 
 ---
