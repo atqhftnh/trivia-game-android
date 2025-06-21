@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBD1dPoD-dhCGc8-mCPB3UGNHKDmGRIYxE"
+          "current_key": "GOOGLE_API_KEY_PLACEHOLDER" // Replace with your actual API key
         }
       ],
       "services": {
