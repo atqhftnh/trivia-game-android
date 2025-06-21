@@ -29,13 +29,6 @@ An interactive multiplayer trivia game built using **Java** and **Firebase** on 
 
 ---
 
-## 📱 Screenshots
-
-*Add screenshots here (e.g., home screen, gameplay, leaderboard)*  
-`![screenshot](images/gameplay.png)`
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository.  
