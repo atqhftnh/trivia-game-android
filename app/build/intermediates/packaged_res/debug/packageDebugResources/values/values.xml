@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="dark_grey">#333333</color>
+    <color name="pastel_blue">#7DA0CA</color>
+    <color name="pastel_green">#81C7B0</color>
+    <color name="pastel_pink">#E7A3B2</color>
+    <color name="pastel_purple">#A58FC9</color>
+    <color name="pastel_red">#E87D7D</color>
+    <color name="pastel_white">#FAF9F6</color>
+    <color name="pastel_yellow">#F4C15D</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">A3MinsGame</string>
+    <string name="default_web_client_id" translatable="false">1003824102236-1m434mtj5dog5e83bc10hohn2bnpdos5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://trivia-game-4ce93-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1003824102236</string>
+    <string name="google_api_key" translatable="false">AIzaSyBD1dPoD-dhCGc8-mCPB3UGNHKDmGRIYxE</string>
+    <string name="google_app_id" translatable="false">1:1003824102236:android:57f984d12fe352528e9f99</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBD1dPoD-dhCGc8-mCPB3UGNHKDmGRIYxE</string>
+    <string name="google_storage_bucket" translatable="false">trivia-game-4ce93.firebasestorage.app</string>
+    <string name="project_id" translatable="false">trivia-game-4ce93</string>
+    <style name="Base.Theme.A3MinsGame" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.A3MinsGame" parent="Base.Theme.A3MinsGame"/>
+</resources>

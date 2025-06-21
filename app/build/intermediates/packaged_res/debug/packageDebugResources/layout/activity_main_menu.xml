@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_image">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#B3FFFFFF"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Main Menu"
+            android:textSize="28sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="50dp"/>
+
+        <Button
+            android:id="@+id/btn_single_player"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/pastel_blue"
+            android:text="Single Player"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btn_multiplayer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/pastel_purple"
+            android:text="Multiplayer"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btn_leaderboard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/pastel_green"
+            android:text="Leaderboard"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/pastel_red"
+            android:text="Logout"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:layout_marginTop="100dp"/>
+    </LinearLayout>
+</RelativeLayout>

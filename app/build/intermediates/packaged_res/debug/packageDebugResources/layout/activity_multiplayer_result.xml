@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_image">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#B3FFFFFF"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🏆 Multiplayer Results 🏆"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:layout_marginBottom="24dp"/>
+
+        <LinearLayout
+            android:id="@+id/results_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="12dp"
+            android:background="@drawable/rounded_card"
+            android:elevation="4dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:id="@+id/tv_results"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Loading scores..."
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:padding="16dp"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_exit_room"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/pastel_red"
+            android:text="Exit Room"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:gravity="center"/>
+    </LinearLayout>
+</RelativeLayout>
