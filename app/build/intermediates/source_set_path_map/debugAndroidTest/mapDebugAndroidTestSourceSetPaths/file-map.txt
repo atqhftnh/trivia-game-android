@@ -1,0 +1,5 @@
+com.example.a3minsgame.test.app-core-1.6.1-0 C:\Users\atiqa\.gradle\caches\8.10.2\transforms\6fcf804eabaf639d3a794ad9c6ce9142\transformed\core-1.6.1\res
+com.example.a3minsgame.test.app-androidTest-1 C:\Users\atiqa\AndroidStudioProjects\A3MinsGame\app\build\generated\res\resValues\androidTest\debug
+com.example.a3minsgame.test.app-mergeDebugAndroidTestResources-2 C:\Users\atiqa\AndroidStudioProjects\A3MinsGame\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.a3minsgame.test.app-mergeDebugAndroidTestResources-3 C:\Users\atiqa\AndroidStudioProjects\A3MinsGame\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.a3minsgame.test.app-debugAndroidTest-4 C:\Users\atiqa\AndroidStudioProjects\A3MinsGame\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
