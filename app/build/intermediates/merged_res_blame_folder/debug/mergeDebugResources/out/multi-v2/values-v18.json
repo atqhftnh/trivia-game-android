@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.a3minsgame.app-mergeDebugResources-39:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\atiqa\\.gradle\\caches\\8.10.2\\transforms\\51dbc85f7961450186ca7b53d8d2bf37\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
