@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_grey">#333333</color>
+
+    <!-- 🎨 Softer Pastel Colors -->
+    <color name="pastel_blue">#7DA0CA</color>
+    <color name="pastel_purple">#A58FC9</color>
+    <color name="pastel_pink">#E7A3B2</color>
+    <color name="pastel_yellow">#F4C15D</color>
+    <color name="pastel_green">#81C7B0</color>
+    <color name="pastel_red">#E87D7D</color>
+    <color name="pastel_white">#FAF9F6</color>
+</resources>
