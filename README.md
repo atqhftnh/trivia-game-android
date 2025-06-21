@@ -45,6 +45,21 @@ An interactive multiplayer trivia game built using **Java** and **Firebase** on 
 
 ---
 
+## 🔑 API Key Notice
+
+> ⚠️ **Important:**  
+This project previously used an API key for features such as question retrieval or Firebase access.  
+For security reasons, the API key has been removed from the public repository.
+
+If you would like to run the app:
+
+1. Create your own Firebase project at [https://console.firebase.google.com](https://console.firebase.google.com)
+2. Replace the `google-services.json` file with your own from Firebase.
+3. If the project uses a third-party API (e.g., trivia questions), generate your own API key and replace it in the code (usually in a `Constants.java` or config file).
+4. NEVER commit sensitive keys or credentials to public repositories.
+
+---
+
 ## 📂 Project Structure
 
 /TriviaGame
